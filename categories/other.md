@@ -6,3 +6,4 @@
 
 | 仓库 | 简介 | 入库日期 | 详情 |
 | --- | --- | --- | --- |
+| [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 数字逻辑电路仿真，做组合逻辑和时序实验 | 2026-10-28 | [笔记](../entries/logisim-evolution-logisim-evolution.md) |
