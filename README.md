@@ -18,15 +18,17 @@
 3. 在对应分类表追加一行：仓库、一句话简介、入库日期、详情链接。
 4. 把日期和变更写进 [CHANGELOG.md](CHANGELOG.md) 顶部。
 
-Star 在 GitHub 上由人手动点。更新这个仓库不会代替 Star；条目里的「是否已 Star」只记录当时的事实。
+每周三下午（Asia/Shanghai）由策展自动化挑选：一半看近期 Star 激增的仓库，一半看长期维护、口碑稳定的仓库；入库的同时会在 GitHub 上真实点亮 Star。条目里的「是否已 Star」记录当时的事实，随时可以手动取消。
 
 ## 分类
 
-| 分类 | 范围 | 页面 |
-| --- | --- | --- |
-| AI 与开发工具 | 模型应用、Agent、IDE / CLI、工程化工具 | [categories/ai-devtools.md](categories/ai-devtools.md) |
-| 电气电力与智能 | 电力、能源、物联网，以及与机器学习结合的项目 | [categories/electrical-power-ai.md](categories/electrical-power-ai.md) |
-| 其他 | 不归入以上两类、但仍值得留下的开源 | [categories/other.md](categories/other.md) |
+截至 2026-10-28 共收录 **7** 个仓库。
+
+| 分类 | 范围 | 收录数 | 页面 |
+| --- | --- | --- | --- |
+| AI 与开发工具 | 模型应用、Agent、IDE / CLI、工程化工具 | 3 | [categories/ai-devtools.md](categories/ai-devtools.md) |
+| 电气电力与智能 | 电力、能源、物联网，以及与机器学习结合的项目 | 4 | [categories/electrical-power-ai.md](categories/electrical-power-ai.md) |
+| 其他 | 不归入以上两类、但仍值得留下的开源 | 0 | [categories/other.md](categories/other.md) |
 
 ## 声明
 
@@ -36,3 +38,4 @@ Star 在 GitHub 上由人手动点。更新这个仓库不会代替 Star；条�
 - **不是背书**。入库不表示推荐用于生产、安全或合规场景，也不代表项目维护者的立场。
 - 笔记中的用法是便于回忆的最小例子，可能随上游版本失效。
 - 「是否已 Star」只描述个人账号上的状态，不表示推荐强度。
+- Star 数、许可证等数字取自入库当天的 GitHub API，之后不会自动更新。
