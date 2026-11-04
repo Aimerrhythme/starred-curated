@@ -2,6 +2,12 @@
 
 按日期记录入库、修订和移出。新的日期写在上面。没有新仓库时也留一行，避免和漏更新混在一起。细节放在对应条目，不在这里展开。
 
+## 2026-11-04
+
+- 每周策展，新增 6 个仓库，均已在 GitHub 上 Star：
+  - 电气电力与智能（3）：`pvlib/pvlib-python`（光伏仿真，长期维护）、`PowerGridModel/power-grid-model`（配电网批量潮流，长期维护）、`Power-Agent/PowerMCP`（电力软件 MCP，电力 + Agent）。
+  - AI 与开发工具（3）：`microsoft/TokenEconomizer`、`academa-labs/manimgx`（近期 Star 激增）；`langchain-ai/deepagents`（长期维护）。
+
 ## 2026-10-28
 
 - 同日补充入库 7 个仓库，均已在 GitHub 上 Star：

@@ -14,3 +14,6 @@
 | [frangoteam/FUXA](https://github.com/frangoteam/FUXA) | Web SCADA/HMI，用 Modbus、OPC UA、MQTT、S7 画监控画面 | 2026-10-28 | [笔记](../entries/frangoteam-FUXA.md) |
 | [davidmonterocrespo24/velxio](https://github.com/davidmonterocrespo24/velxio) | 浏览器仿真 Arduino / Pico / ESP32，用来预习单片机实验 | 2026-10-28 | [笔记](../entries/davidmonterocrespo24-velxio.md) |
 | [sanny32/OpenModScan](https://github.com/sanny32/OpenModScan) | 开源 Modbus 主站调试工具，可替代 ModScan 连仿真从站 | 2026-10-28 | [笔记](../entries/sanny32-OpenModScan.md) |
+| [pvlib/pvlib-python](https://github.com/pvlib/pvlib-python) | 光伏系统性能仿真工具箱：太阳位置、辐照、组件温度到逆变器出力 | 2026-11-04 | [笔记](../entries/pvlib-pvlib-python.md) |
+| [PowerGridModel/power-grid-model](https://github.com/PowerGridModel/power-grid-model) | C++ 内核的配电网潮流/状态估计/短路库，适合批量场景计算 | 2026-11-04 | [笔记](../entries/PowerGridModel-power-grid-model.md) |
+| [Power-Agent/PowerMCP](https://github.com/Power-Agent/PowerMCP) | 电力系统软件的 MCP 服务器合集，让大模型调用 PowerWorld、OpenDSS、pandapower | 2026-11-04 | [笔记](../entries/Power-Agent-PowerMCP.md) |
