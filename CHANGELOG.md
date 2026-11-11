@@ -2,6 +2,12 @@
 
 按日期记录入库、修订和移出。新的日期写在上面。没有新仓库时也留一行，避免和漏更新混在一起。细节放在对应条目，不在这里展开。
 
+## 2026-11-11
+
+- 每周策展，新增 5 个仓库，均已在 GitHub 上 Star：
+  - AI 与开发工具（2）：`langchain-ai/design-agent`（设计 Agent，近期 Star 上涨）、`aa1143/NamiAgent`（中文手写 Agent 教程，近期新项目）。
+  - 电气电力与智能（3）：`SanPen/VeraGrid`（带 GUI 的电力系统仿真，长期维护）、`davidusb-geek/emhass`（家庭能量管理 LP/MPC + ML 负荷预测，长期维护）、`riclolsen/json-scada`（电力规约 SCADA/网关，长期维护）。
+
 ## 2026-11-04
 
 - 每周策展，新增 6 个仓库，均已在 GitHub 上 Star：

@@ -22,12 +22,12 @@
 
 ## 分类
 
-截至 2026-11-04 共收录 **20** 个仓库。
+截至 2026-11-11 共收录 **25** 个仓库。
 
 | 分类 | 范围 | 收录数 | 页面 |
 | --- | --- | --- | --- |
-| AI 与开发工具 | 模型应用、Agent、IDE / CLI、工程化工具 | 8 | [categories/ai-devtools.md](categories/ai-devtools.md) |
-| 电气电力与智能 | 电力、能源、物联网，以及与机器学习结合的项目 | 11 | [categories/electrical-power-ai.md](categories/electrical-power-ai.md) |
+| AI 与开发工具 | 模型应用、Agent、IDE / CLI、工程化工具 | 10 | [categories/ai-devtools.md](categories/ai-devtools.md) |
+| 电气电力与智能 | 电力、能源、物联网，以及与机器学习结合的项目 | 14 | [categories/electrical-power-ai.md](categories/electrical-power-ai.md) |
 | 其他 | 不归入以上两类、但仍值得留下的开源 | 1 | [categories/other.md](categories/other.md) |
 
 ## 声明

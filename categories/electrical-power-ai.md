@@ -17,3 +17,6 @@
 | [pvlib/pvlib-python](https://github.com/pvlib/pvlib-python) | 光伏系统性能仿真工具箱：太阳位置、辐照、组件温度到逆变器出力 | 2026-11-04 | [笔记](../entries/pvlib-pvlib-python.md) |
 | [PowerGridModel/power-grid-model](https://github.com/PowerGridModel/power-grid-model) | C++ 内核的配电网潮流/状态估计/短路库，适合批量场景计算 | 2026-11-04 | [笔记](../entries/PowerGridModel-power-grid-model.md) |
 | [Power-Agent/PowerMCP](https://github.com/Power-Agent/PowerMCP) | 电力系统软件的 MCP 服务器合集，让大模型调用 PowerWorld、OpenDSS、pandapower | 2026-11-04 | [笔记](../entries/Power-Agent-PowerMCP.md) |
+| [SanPen/VeraGrid](https://github.com/SanPen/VeraGrid) | 带 GUI 的 Python 电力系统规划仿真软件（原 GridCal）：潮流、短路、动态、随机潮流、CGMES | 2026-11-11 | [笔记](../entries/SanPen-VeraGrid.md) |
+| [davidusb-geek/emhass](https://github.com/davidusb-geek/emhass) | 家庭能量管理：线性规划/MPC 排光伏、储能和可延迟负荷，内置 ML 负荷预测 | 2026-11-11 | [笔记](../entries/davidusb-geek-emhass.md) |
+| [riclolsen/json-scada](https://github.com/riclolsen/json-scada) | 开源 SCADA/协议网关，支持 IEC 61850、IEC 104、DNP3、ICCP，适合变电站通信实训 | 2026-11-11 | [笔记](../entries/riclolsen-json-scada.md) |

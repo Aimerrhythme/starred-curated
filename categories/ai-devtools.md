@@ -14,3 +14,5 @@
 | [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) | 从历史会话学习、给编程 Agent 降 token 成本的插件（Claude Code、Codex 等） | 2026-11-04 | [笔记](../entries/microsoft-TokenEconomizer.md) |
 | [academa-labs/manimgx](https://github.com/academa-labs/manimgx) | 兼容 Manim API 的 Rust 3D 数学动画引擎，适合 Agent 生成教学动画 | 2026-11-04 | [笔记](../entries/academa-labs-manimgx.md) |
 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | LangChain 开箱即用 Agent 框架：子 Agent、文件系统、记忆、Skills | 2026-11-04 | [笔记](../entries/langchain-ai-deepagents.md) |
+| [langchain-ai/design-agent](https://github.com/langchain-ai/design-agent) | LangChain 开源的设计 Agent：按品牌规范出图、幻灯片、图表和短视频，基于 Deep Agents | 2026-11-11 | [笔记](../entries/langchain-ai-design-agent.md) |
+| [aa1143/NamiAgent](https://github.com/aa1143/NamiAgent) | 中文零基础 AI Agent 教程，从 100 行循环逐课加到 MCP、子 Agent、记忆，可本地运行 | 2026-11-11 | [笔记](../entries/aa1143-NamiAgent.md) |
